@@ -2,7 +2,7 @@
   "name": "qa-testing",
   "version": "0.0.1",
   "description": "DateTime tests",
-  "main": "index.js",
+  "main": "method1.js",
   "scripts": {
     "test": "mocha *.js"
   },
