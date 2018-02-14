@@ -1,0 +1,19 @@
+{
+  "name": "qa-testing",
+  "version": "0.0.1",
+  "description": "DateTime tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.js"
+  },
+  "keywords": [
+    "datetime",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  }
+}
